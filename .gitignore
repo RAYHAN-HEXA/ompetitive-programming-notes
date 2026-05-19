@@ -1,0 +1,19 @@
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.bin
+*.app
+
+# Debug symbols
+*.dSYM/
+
+# Generated files
+*.log
+
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
