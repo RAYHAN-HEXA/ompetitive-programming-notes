@@ -5,6 +5,9 @@
 *.out
 *.bin
 *.app
+double
+operator
+test
 
 # Debug symbols
 *.dSYM/
@@ -14,6 +17,9 @@
 
 # macOS
 .DS_Store
+
+# Local environment
+.cph/
 
 # Visual Studio Code
 .vscode/
